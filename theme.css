@@ -112,11 +112,11 @@ hr {
 	border-color: #c5c5c5;
 }
 
-blockquote {
+blockquote, .HyperMD-quote {
 	margin: 2rem .2rem;
 	padding: .3rem .5rem;
 	color: #6f6f6f;
-	border-left: .4rem solid gray;
+	border-left: .2rem solid gray;
 }
 
 blockquote p {
