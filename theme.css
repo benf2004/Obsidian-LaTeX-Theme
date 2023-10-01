@@ -119,7 +119,7 @@ blockquote, .HyperMD-quote {
 	border-left: .2rem solid gray;
 }
 
-blockquote p {
+.HyperMD-quote p {
 	padding: .2rem 1.5rem;
 }
 
