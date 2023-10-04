@@ -10,7 +10,7 @@ fi
 version="$1"
 
 # Create a Git tag with the provided version and message
-git tag -a "$version" -m "$version"
+git tag -a $version -m "$version"
 
 # Push the tag to the remote repository
 git push origin "$version"
