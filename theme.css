@@ -144,3 +144,11 @@ img {
 	display: block;
 	margin: auto;
 }
+
+/* inline tabs */
+.cm-s-obsidian span.cm-inline-code {
+	color: inherit;
+	font-size: inherit;
+	background-color: inherit;
+	vertical-align: inherit;
+}
