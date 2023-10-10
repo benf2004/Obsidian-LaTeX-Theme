@@ -94,7 +94,7 @@ code {
 	padding-right: 2px;
 }
 
-blockquote {
+.markdown-rendered blockquote {
 	border-left: none
 }
 
